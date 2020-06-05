@@ -32,7 +32,7 @@ canonifyurls = true
 
 [author]
   name = "John-André Bjørkhaug"
-  bio = "Security ramblings from a viking"
+  bio = "Weird stuff from a security geek."
   job = "Priniciple Ethical Hacker"
   location = "Norway"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
