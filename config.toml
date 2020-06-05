@@ -72,6 +72,12 @@ canonifyurls = true
   url = "/archives"
 [[menu.main]]
   weight = 5
+  identifier = "presentations"
+  name = "Presentations"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+  url = "/page/presentations"
+[[menu.main]]
+  weight = 5
   identifier = "about me"
   name = "About Me"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
