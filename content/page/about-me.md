@@ -14,3 +14,4 @@ coverSize: partial
 
 I just needed a place to post random stuff I come up with. Therefor this humble blog.
 I am a Norwegian telco/wireless engineer who have been working over a decade as a penetration tester. On my spare time I do security research, and collect stuff like cipher machines, mechanical calculators and antique knives.
+test
