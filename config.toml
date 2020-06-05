@@ -31,10 +31,10 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "John-Andre"
+  name = "John-André Bjørkhaug"
   bio = "Security ramblings from a viking"
-  job = "Senior Penetration Tester"
-  location = "Sweden"
+  job = "Priniciple Ethical Hacker"
+  location = "Norway"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = ""
   # Your profile picture
