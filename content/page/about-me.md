@@ -7,7 +7,7 @@ tags:
 comments: false
 showMeta: false
 showActions: false
-coverImage: /static/img/pages/about/hagelin.jpg
+coverImage: /img/pages/about/hagelin.jpg
 coverSize: partial
 ---
 ## About Me
