@@ -32,8 +32,8 @@ canonifyurls = true
 
 [author]
   name = "John-André Bjørkhaug"
-  bio = "Weird stuff from a security geek."
-  job = "Priniciple Ethical Hacker"
+  bio = "Hacker, father, antique collector, outdoor person"
+  job = "Ethical Hacker"
   location = "Norway"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = ""
